@@ -1,0 +1,18 @@
+.main-middle-part {
+  background-color: lightgrey;
+  border:1px solid black;
+}
+
+.second-header-2 {
+  padding:10px; 
+  font-weight: bold;
+}
+
+.main-parag {
+  padding:15px;
+}
+
+.menu-options {
+  text-align: center;
+  font-size:1.2em;
+}
